@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ff4e1460-8751-41c0-bc1e-736ca4c89d6c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Task6/RandomArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task7/Triangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -18,10 +18,9 @@
       <file leaf-file-name="Calc.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Task2/Calc.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+            <state relative-caret-position="595">
+              <caret line="44" column="5" lean-forward="true" selection-start-line="31" selection-start-column="8" selection-end-line="44" selection-end-column="5" />
               <folding>
-                <element signature="method#valid#0;class#Main#0" />
                 <element signature="method#gcd#0;class#Main#0" />
                 <element signature="class#Action#0" />
               </folding>
@@ -70,14 +69,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RandomArray.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="RandomArray.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Task6/RandomArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+            <state relative-caret-position="119">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
               <folding>
+                <element signature="method#outputArr#0;class#RandomArray#0" />
                 <element signature="method#fillingArr#0;class#RandomArray#0" />
                 <element signature="method#valid#0;class#RandomArray#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Triangle.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Task7/Triangle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+              <folding>
+                <element signature="method#inputAndCheck#0;class#Triangle#0" />
+                <element signature="method#valid#0;class#Triangle#0" />
               </folding>
             </state>
           </provider>
@@ -107,6 +120,8 @@
         <option value="$PROJECT_DIR$/src/Task5/Main.java" />
         <option value="$PROJECT_DIR$/src/Task5/Palindroms.java" />
         <option value="$PROJECT_DIR$/src/Task6/RandomArray.java" />
+        <option value="$PROJECT_DIR$/src/Task7/Main.java" />
+        <option value="$PROJECT_DIR$/src/Task7/Triangle.java" />
       </list>
     </option>
   </component>
@@ -145,6 +160,49 @@
               <item name="Tasks" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Tasks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tasks" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Task2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tasks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tasks" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Task2" type="462c0819:PsiDirectoryNode" />
+              <item name="Calc.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="Tasks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tasks" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Task3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tasks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tasks" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Task4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tasks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tasks" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Task5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tasks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tasks" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Task6" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tasks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tasks" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Task7" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -168,7 +226,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RandomArray">
+  <component name="RunManager" selected="Application.Triangle">
     <configuration name="Calc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Task2.Calc" />
       <module name="Tasks" />
@@ -226,19 +284,30 @@
         </pattern>
       </extension>
     </configuration>
+    <configuration name="Triangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task7.Triangle" />
+      <module name="Tasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Task7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <list>
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Main (1)" />
       <item itemvalue="Application.Palindroms" />
       <item itemvalue="Application.RandomArray" />
+      <item itemvalue="Application.Triangle" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Triangle" />
         <item itemvalue="Application.RandomArray" />
         <item itemvalue="Application.Palindroms" />
         <item itemvalue="Application.Sequence" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Calc" />
       </list>
     </recent_temporary>
   </component>
@@ -252,7 +321,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1531891425267</updated>
-      <workItem from="1531891430087" duration="5237000" />
+      <workItem from="1531891430087" duration="6018000" />
     </task>
     <task id="LOCAL-00001" summary="Task2 - Calculator">
       <created>1531894746400</created>
@@ -282,11 +351,18 @@
       <option name="project" value="LOCAL" />
       <updated>1531896174215</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Task6 - RandSequence">
+      <created>1531896831708</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1531896831708</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5237000" />
+    <option name="totallyTimeSpent" value="6018000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
@@ -306,7 +382,7 @@
       <window_info anchor="bottom" id="Terminal" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
       <window_info anchor="right" id="Database" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -333,7 +409,13 @@
     <MESSAGE value="Task3 - Parity check" />
     <MESSAGE value="Task4 - Even number sequence" />
     <MESSAGE value="Task5 - Palindroms" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task5 - Palindroms" />
+    <MESSAGE value="Task6 - RandSequence" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task6 - RandSequence" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/Comparator.java">
@@ -360,40 +442,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Task2/Calc.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-          <folding>
-            <element signature="method#valid#0;class#Main#0" />
-            <element signature="method#gcd#0;class#Main#0" />
-            <element signature="class#Action#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Task3/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="30" lean-forward="true" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
-          <folding>
-            <element signature="method#checkVal#0;class#Main#0" />
-            <element signature="method#valid#0;class#Main#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Task4/Sequence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="32" column="1" lean-forward="true" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
-          <folding>
-            <element signature="method#comput#0;class#Main#0" />
-            <element signature="method#valid#0;class#Main#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Task5/Palindroms.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
@@ -409,11 +457,56 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Task6/RandomArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
           <folding>
+            <element signature="method#outputArr#0;class#RandomArray#0" />
             <element signature="method#fillingArr#0;class#RandomArray#0" />
             <element signature="method#valid#0;class#RandomArray#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Task4/Sequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="32" column="1" lean-forward="true" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
+          <folding>
+            <element signature="method#comput#0;class#Main#0" />
+            <element signature="method#valid#0;class#Main#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Task3/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="30" lean-forward="true" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+          <folding>
+            <element signature="method#checkVal#0;class#Main#0" />
+            <element signature="method#valid#0;class#Main#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Task2/Calc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="44" column="5" lean-forward="true" selection-start-line="31" selection-start-column="8" selection-end-line="44" selection-end-column="5" />
+          <folding>
+            <element signature="method#gcd#0;class#Main#0" />
+            <element signature="class#Action#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Task7/Triangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+          <folding>
+            <element signature="method#inputAndCheck#0;class#Triangle#0" />
+            <element signature="method#valid#0;class#Triangle#0" />
           </folding>
         </state>
       </provider>
