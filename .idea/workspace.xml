@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ff4e1460-8751-41c0-bc1e-736ca4c89d6c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Task7/Triangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task8/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -83,7 +82,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Triangle.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Triangle.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Task7/Triangle.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
@@ -92,6 +91,15 @@
                 <element signature="method#inputAndCheck#0;class#Triangle#0" />
                 <element signature="method#valid#0;class#Triangle#0" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Task8/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -164,19 +172,6 @@
               <item name="Tasks" type="b2602c69:ProjectViewProjectNode" />
               <item name="Tasks" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Task2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Tasks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Tasks" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Task2" type="462c0819:PsiDirectoryNode" />
-              <item name="Calc.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="Tasks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Tasks" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Task3" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -226,7 +221,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Triangle">
+  <component name="RunManager" selected="Application.Pars">
     <configuration name="Calc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Task2.Calc" />
       <module name="Tasks" />
@@ -264,6 +259,16 @@
         </pattern>
       </extension>
     </configuration>
+    <configuration name="Pars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task8.Pars" />
+      <module name="Tasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Task8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="RandomArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Task6.RandomArray" />
       <module name="Tasks" />
@@ -297,17 +302,17 @@
     <list>
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Main (1)" />
-      <item itemvalue="Application.Palindroms" />
+      <item itemvalue="Application.Pars" />
       <item itemvalue="Application.RandomArray" />
       <item itemvalue="Application.Triangle" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Pars" />
         <item itemvalue="Application.Triangle" />
         <item itemvalue="Application.RandomArray" />
         <item itemvalue="Application.Palindroms" />
         <item itemvalue="Application.Sequence" />
-        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -321,7 +326,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1531891425267</updated>
-      <workItem from="1531891430087" duration="6018000" />
+      <workItem from="1531891430087" duration="6300000" />
     </task>
     <task id="LOCAL-00001" summary="Task2 - Calculator">
       <created>1531894746400</created>
@@ -358,11 +363,18 @@
       <option name="project" value="LOCAL" />
       <updated>1531896831708</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Task7 - CheckTriangle">
+      <created>1531897527047</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1531897527047</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6018000" />
+    <option name="totallyTimeSpent" value="6300000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
@@ -410,7 +422,8 @@
     <MESSAGE value="Task4 - Even number sequence" />
     <MESSAGE value="Task5 - Palindroms" />
     <MESSAGE value="Task6 - RandSequence" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task6 - RandSequence" />
+    <MESSAGE value="Task7 - CheckTriangle" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task7 - CheckTriangle" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -508,6 +521,13 @@
             <element signature="method#inputAndCheck#0;class#Triangle#0" />
             <element signature="method#valid#0;class#Triangle#0" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Task8/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
         </state>
       </provider>
     </entry>
